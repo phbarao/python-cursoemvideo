@@ -1,3 +1,5 @@
+# comentário 1
+
 ficha = []
 
 while True:
