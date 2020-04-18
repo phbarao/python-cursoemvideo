@@ -38,28 +38,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.teste (3)">
-    <configuration name="ex106" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="exerciciosPy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex106.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.teste (5)">
     <configuration name="teste (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciosPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +102,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="teste (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="exerciciosPy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +110,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex107" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex111" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex107/teste.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex111/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="exerciciosPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex112" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex112/teste.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.teste (5)" />
+        <item itemvalue="Python.teste (4)" />
         <item itemvalue="Python.teste (3)" />
         <item itemvalue="Python.teste (2)" />
         <item itemvalue="Python.teste (1)" />
-        <item itemvalue="Python.teste" />
-        <item itemvalue="Python.ex106" />
       </list>
     </recent_temporary>
   </component>
@@ -168,29 +168,39 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="385" key="GridCell.Tab.0.bottom" timestamp="1587184700309">
-      <screen x="0" y="23" width="1440" height="873" />
+    <state width="1659" height="330" key="GridCell.Tab.0.bottom" timestamp="1587234251863">
+      <screen x="0" y="23" width="1680" height="1023" />
     </state>
     <state width="1419" height="241" key="GridCell.Tab.0.bottom/0.0.1440.896@0.0.1440.896" timestamp="1587183583513" />
     <state width="1419" height="385" key="GridCell.Tab.0.bottom/0.23.1440.873@0.23.1440.873" timestamp="1587184700309" />
-    <state width="1419" height="385" key="GridCell.Tab.0.center" timestamp="1587184700308">
-      <screen x="0" y="23" width="1440" height="873" />
+    <state width="1659" height="330" key="GridCell.Tab.0.bottom/0.23.1680.1023/-1440.454.1440.877@0.23.1680.1023" timestamp="1587234251863" />
+    <state width="1659" height="464" key="GridCell.Tab.0.bottom/0.23.1680.1027/-1440.454.1440.873@0.23.1680.1027" timestamp="1587233347018" />
+    <state width="1659" height="330" key="GridCell.Tab.0.center" timestamp="1587234251862">
+      <screen x="0" y="23" width="1680" height="1023" />
     </state>
     <state width="1419" height="241" key="GridCell.Tab.0.center/0.0.1440.896@0.0.1440.896" timestamp="1587183583512" />
     <state width="1419" height="385" key="GridCell.Tab.0.center/0.23.1440.873@0.23.1440.873" timestamp="1587184700308" />
-    <state width="1419" height="385" key="GridCell.Tab.0.left" timestamp="1587184700308">
-      <screen x="0" y="23" width="1440" height="873" />
+    <state width="1659" height="330" key="GridCell.Tab.0.center/0.23.1680.1023/-1440.454.1440.877@0.23.1680.1023" timestamp="1587234251862" />
+    <state width="1659" height="464" key="GridCell.Tab.0.center/0.23.1680.1027/-1440.454.1440.873@0.23.1680.1027" timestamp="1587233347017" />
+    <state width="1659" height="330" key="GridCell.Tab.0.left" timestamp="1587234251861">
+      <screen x="0" y="23" width="1680" height="1023" />
     </state>
     <state width="1419" height="241" key="GridCell.Tab.0.left/0.0.1440.896@0.0.1440.896" timestamp="1587183583511" />
     <state width="1419" height="385" key="GridCell.Tab.0.left/0.23.1440.873@0.23.1440.873" timestamp="1587184700308" />
-    <state width="1419" height="385" key="GridCell.Tab.0.right" timestamp="1587184700309">
-      <screen x="0" y="23" width="1440" height="873" />
+    <state width="1659" height="330" key="GridCell.Tab.0.left/0.23.1680.1023/-1440.454.1440.877@0.23.1680.1023" timestamp="1587234251861" />
+    <state width="1659" height="464" key="GridCell.Tab.0.left/0.23.1680.1027/-1440.454.1440.873@0.23.1680.1027" timestamp="1587233347016" />
+    <state width="1659" height="330" key="GridCell.Tab.0.right" timestamp="1587234251862">
+      <screen x="0" y="23" width="1680" height="1023" />
     </state>
     <state width="1419" height="241" key="GridCell.Tab.0.right/0.0.1440.896@0.0.1440.896" timestamp="1587183583513" />
     <state width="1419" height="385" key="GridCell.Tab.0.right/0.23.1440.873@0.23.1440.873" timestamp="1587184700309" />
-    <state x="229" y="89" key="SettingsEditor" timestamp="1587183579916">
-      <screen x="0" y="0" width="1440" height="896" />
+    <state width="1659" height="330" key="GridCell.Tab.0.right/0.23.1680.1023/-1440.454.1440.877@0.23.1680.1023" timestamp="1587234251862" />
+    <state width="1659" height="464" key="GridCell.Tab.0.right/0.23.1680.1027/-1440.454.1440.873@0.23.1680.1027" timestamp="1587233347017" />
+    <state x="267" y="125" key="SettingsEditor" timestamp="1587232466273">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.896@0.0.1440.896" timestamp="1587183579916" />
+    <state x="229" y="110" key="SettingsEditor/0.23.1440.873@0.23.1440.873" timestamp="1587186182005" />
+    <state x="267" y="125" key="SettingsEditor/0.23.1680.1027/-1440.454.1440.873@0.23.1680.1027" timestamp="1587232466273" />
   </component>
 </project>
