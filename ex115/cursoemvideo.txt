@@ -1,4 +1,4 @@
-Dirceu;7
-Letícia;5
-Bozó;4
+Pedro;31
+Angela;22
 Bento;1
+Bozó;4

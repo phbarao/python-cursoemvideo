@@ -1,6 +1,3 @@
-from ex115.lib.interface import *
-
-
 def linha(tam=42):
     return '-' * tam
 
@@ -34,13 +31,3 @@ def menu(lista):
     print(linha())
     opc = leiaInt('\033[32mSua Opção: \033[m')
     return opc
-
-
-def lerArquivo(nome):
-    try:
-        a = open(nome, 'rt')
-    except:
-        print('Erro ao ler o arquivo!')
-    else:
-        cabeçalho('PESSOAS CADASTRADAS')
-        print(a.read()) #outra opção aqui é usar o a.readlines()
