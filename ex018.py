@@ -2,8 +2,10 @@ from math import radians, sin, cos, tan
 
 ang = float(input('Digite o ângulo que você deseja: '))
 seno = sin(radians(ang))
-print('O ângulo de {} tem o SENO de {:.2f}'.format(ang, seno))
+print(f'O ângulo de {ang} tem o SENO de {seno:.2f}')
+
 cosseno = cos(radians(ang))
-print('O ângulo de {} tem o COSSENO de {:.2f}'.format(ang, cosseno))
+print(f'O ângulo de {ang} tem o COSSENO de {cosseno:.2f}')
+
 tangente = tan(radians(ang))
-print('O ângulo de {} tem a TANGENTE de {:.2f}'.format(ang, tangente))
+print(f'O ângulo de {ang} tem a TANGENTE de {tangente:.2f}')

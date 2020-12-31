@@ -9,4 +9,4 @@ c = int(input('Digite um valor para variável "c": '))
 soma = a + b + c
 
 print()
-print('\033[1;34;40m A soma dos valores {}, {} e {} é: {}! \033[m'.format(a, b, c, soma))
+print(f'\033[1;34;40m A soma dos valores {a}, {b} e {c} é: {soma}! \033[m')

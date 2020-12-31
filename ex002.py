@@ -2,7 +2,10 @@
 
 nome = input('Digite seu nome: ')
 
-cores = {'azul':'\033[1;34m',
-         'limpa':'\033[m'}
+cores = {
+    'azul': '\033[1;34m',
+    'limpa': '\033[m'
+}
 
-print('É um prazer te conhecer, {}{}{}!'.format(cores['azul'], nome, cores['limpa']))
+print('É um prazer te conhecer, {}{}{}!'.format(
+    cores['azul'], nome, cores['limpa']))
