@@ -10,7 +10,9 @@ palpites = 0
 
 while not acertou:
     jogador = int(input('Qual é seu palpite? '))
+    
     palpites += 1
+    
     if jogador == computador:
         acertou = True
     else:
@@ -19,4 +21,4 @@ while not acertou:
         elif jogador > computador: #Aqui também poderia ser um ELSE
             print('Menos... Tente mais uma vez.')
 
-print('Acertou com {} tentativas. Parabéns!'.format(palpites))
+print(f'Acertou com {palpites} tentativas. Parabéns!')

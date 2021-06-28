@@ -5,11 +5,13 @@ n2 = int(input('Segundo valor: '))
 opção = 0
 
 while opção != 5:
-    print('''    [ 1 ] somar
+    print('''    
+    [ 1 ] somar
     [ 2 ] multiplicar
     [ 3 ] maior
     [ 4 ] novos números
-    [ 5 ] sair do programa''')
+    [ 5 ] sair do programa
+    ''')
 
     opção = int(input('Qual é a sua opção? '))
 

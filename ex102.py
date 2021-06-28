@@ -6,6 +6,7 @@ def fatorial(n, show=False):
     :return: O valor do fatorial de um número n.
     """
     f = 1
+
     for c in range(n, 0, -1):
         if show:
             print(c, end='')
@@ -19,4 +20,5 @@ def fatorial(n, show=False):
 
 #Programa Principal
 print(fatorial(10, show=True))
+
 #help(fatorial)

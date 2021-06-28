@@ -8,5 +8,5 @@ n4 = input('Quarto aluno: ')
 lista = [n1, n2, n3, n4]
 shuffle(lista)
 
-print('A ordem da apresentaçÃo será:')
+print('A ordem da apresentação será:')
 print(lista)

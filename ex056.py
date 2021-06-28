@@ -21,6 +21,6 @@ for p in range(1, 5):
 
 mediaIdade = somaIdade / 4
 
-print('A média de idade do grupo  é de {} anos'.format(mediaIdade))
-print('O homem mais velho tem {} anos e se chama {}.'.format(maiorIdadeHomem, nomeVelho))
-print('Ao todo são {} mulheres com menos de 20 anos'.format(totalMulher20))
+print(f'A média de idade do grupo  é de {mediaIdade} anos')
+print(f'O homem mais velho tem {maiorIdadeHomem} anos e se chama {nomeVelho}.')
+print(f'Ao todo são {totalMulher20} mulheres com menos de 20 anos')

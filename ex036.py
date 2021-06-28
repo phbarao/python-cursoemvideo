@@ -4,8 +4,8 @@ anos = int(input('Quantos anos de financiamento? '))
 prestação = casa / (anos * 12)
 mínimo = salário * 30 / 100
 
-print('Para pagar uma casa de R${:.2f} em {} anos,'.format(casa, anos), end='')
-print(' a prestação será de R${:.2f}'.format(prestação))
+print(f'Para pagar uma casa de R${casa:.2f} em {anos} anos,', end='')
+print(f' a prestação será de R${prestação:.2f}')
 
 if prestação <= mínimo:
     print('Empréstimo APROVADO!')

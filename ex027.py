@@ -3,5 +3,5 @@ separado = nome.split()
 
 
 print('Muito prazer em te conhecer!')
-print('Seu primeiro nome é {}'.format(separado[0].capitalize()))
-print('Seu último nome é {}'.format(separado[len(separado)-1].capitalize()))
+print(f'Seu primeiro nome é {separado[0].capitalize()}')
+print(f'Seu último nome é {separado[len(separado)-1].capitalize()}')

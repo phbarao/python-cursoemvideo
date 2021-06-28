@@ -3,7 +3,7 @@ palavras = frase.split()
 junto = ''.join(palavras)
 inverso = junto[::-1]
 
-print('O inverso de {} é {}'.format(junto, inverso))
+print(f'O inverso de {junto} é {inverso}')
 
 if inverso == junto:
     print('Temos um palíndromo!')

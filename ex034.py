@@ -5,4 +5,4 @@ if salario <= 1250:
 else:
     novo = salario + (salario * 0.10)
 
-print('Quem ganhava R$ {:.2f} passa a ganhar R$ {:.2f}'.format(salario, novo))
+print(f'Quem ganhava R$ {salario:.2f} passa a ganhar R$ {novo:.2f}')

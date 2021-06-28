@@ -6,4 +6,4 @@ for c in range(1, 501, 2):
         soma += c
         cont += 1
 
-print('A soma de todos os {} valores solicitados é {}.'.format(cont, soma))
+print(f'A soma de todos os {cont} valores solicitados é {soma}.')

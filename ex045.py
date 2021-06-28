@@ -18,8 +18,8 @@ sleep(1)
 print('PO!!!')
 
 print('-=' * 11)
-print('Computador jogou {}'.format(itens[computador]))
-print('Jogador jogou {}'.format(itens[jogador]))
+print(f'Computador jogou {itens[computador]}')
+print(f'Jogador jogou {itens[jogador]}')
 print('-=' * 11)
 
 if computador == 0: #PEDRA

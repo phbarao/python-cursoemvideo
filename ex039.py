@@ -11,17 +11,17 @@ sexo = input('''Sexo:
 if sexo == 'F':
     print('Por ser mulher, o alistamento não é obrigatório')
 elif sexo == 'M':
-    print('Quem nasceu em {} tem {} anos em {}.'.format(nascimento, idade, atual))
+    print(f'Quem nasceu em {nascimento} tem {idade} anos em {atual}.')
 
     if idade == 18:
         print('Você tem que se alistar imediatamente!')
     elif idade < 18:
         saldo = 18 - idade
-        print('Ainda faltam {} anos para o alistamento'.format(saldo))
+        print(f'Ainda faltam {saldo} anos para o alistamento')
         ano = atual + saldo
         print('Seu alistamento será em {}'.format(ano))
     else:
         saldo = idade - 18
-        print('Você já deveria ter se alistado há {} anos.'.format(saldo))
+        print(f'Você já deveria ter se alistado há {saldo} anos.')
         ano = atual - saldo
-        print('Seu alistamento foi em {}.'.format(ano))
+        print(f'Seu alistamento foi em {ano}.')

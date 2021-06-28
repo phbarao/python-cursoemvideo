@@ -4,7 +4,7 @@ atual = date.today().year
 nasimento = int(input('Ano de Nascimento: '))
 idade = atual - nasimento
 
-print('O atleta tem {} anos.'.format(idade))
+print(f'O atleta tem {idade} anos.')
 
 if idade <= 9:
     print('Classificação: MIRIM')
